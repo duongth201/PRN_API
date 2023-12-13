@@ -1,0 +1,25 @@
+﻿@addTagHelper *,Microsoft.AspNetCore.Mvc.TagHelpers
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Error Page</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container">
+        <div class="row justify-content-center mt-5">
+            <div class="col-md-6">
+                <div class="text-center">
+                    <h1 class="display-1">Error</h1>
+                    <p class="lead">Oops! Something went wrong.</p>
+                    <p class="lead">We apologize for the inconvenience.</p>
+                    <a asp-action="Index" asp-controller="Home" class="btn btn-primary">Go back to Home</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

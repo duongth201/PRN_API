@@ -1,0 +1,44 @@
+﻿@using PRN231_Project_EnglishTest_Client.Models
+@addTagHelper *,Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    Layout = "/Pages/Shared/_Layout.cshtml";
+
+    List<Test> tests = ViewBag.Test;
+}
+
+@section content {
+    <div class="row justify-content-center">
+        <div class="col-lg-6 col-md-8">
+            <form method="post" asp-action="Index" asp-controller="Home">
+                <div class="input-group mb-3">
+                    <input name="search" type="text" class="form-control" placeholder="Search for Test">
+                    <div class="input-group-append">
+                        <button class="btn btn-primary" type="submit">Search</button>
+                    </div>           
+            </div>
+            </form>           
+        </div>
+    </div>
+    <div class="container-fluid" style="margin-top : 50px">
+        <div class="row">
+            <div class="col-lg-12 title">
+                <div class="row">
+                    @foreach (var item in tests)
+                    {
+                        <div class="col-lg-3 text-center mb-4">
+                            <div class="card border-primary">
+                                <div class="card-body">
+                                    <h5 class="card-title">@item.TestName</h5>
+                                    <img src="https://cdn-icons-png.flaticon.com/512/2916/2916315.png" alt="" class="card-img-top" style="width: 100px; height: 100px;" />
+                                    <p class="card-text">Duration: @item.Duration Min</p>
+                                    <a asp-action="Index" asp-controller="Test" asp-route-id="@item.TestId" class="btn btn-primary">View Exam</a>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+}
+

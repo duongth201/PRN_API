@@ -1,0 +1,23 @@
+﻿@using PRN231_Project_EnglishTest_Client.Models
+@addTagHelper *,Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    Layout = "/Pages/Shared/_Layout.cshtml";
+
+    Test test = ViewBag.Test;
+}
+
+@section content{
+<body>
+  <div class="container mt-5">
+    <h1 class="display-4">Test Name: @test.TestName</h1>
+    <div class="card mb-4">
+      <div class="card-body">
+        <h5 class="card-title">Description</h5>
+        <p class="card-text">@test.TestDescription</p>
+      </div>
+    </div>
+    <h2>Duration: @test.Duration Minutes</h2>
+    <a asp-action="Index" asp-controller="Question" asp-route-testid="@test.TestId" type="submit" class="btn btn-primary mt-3">Do Exam</a>
+  </div>
+</body>
+}

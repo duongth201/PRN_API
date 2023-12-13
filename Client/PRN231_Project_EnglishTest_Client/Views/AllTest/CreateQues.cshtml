@@ -1,0 +1,108 @@
+﻿@using PRN231_Project_EnglishTest_Client.Models
+@addTagHelper *,Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    Layout = "/Pages/Shared/_Layout.cshtml";
+    int TestId = ViewBag.createTestId;
+}
+@section content {
+    <div class="card-body">
+        <form method="post" asp-action="PostCreateQuestion" asp-controller="AllTest">
+            <input type="text" class="form-control" id="exam-id-input" style="display: none;">
+            <div class="mb-3">
+                <label for="exampleInputEmail1" class="form-label">Test Id</label>
+                <input type="text" class="form-control" name="id" id="@TestId" value="@TestId" readonly>
+            </div>
+            <div class="mb-3">
+                <label for="disabledSelect" class="form-label">Question Text</label>
+                <input type="text" class="form-control" name="questionText" id="questionText">
+            </div>
+            <label>Options:</label>
+            <ul id="optionsList">
+                <li style="display: flex;" class="option-item">
+                    <input type="radio" name="incorrect" id="incorrect" required checked>
+                    <input type="text" name="optext" class="form-control" id="optext" required>
+                    <button type="button" class="btn btn-danger" onclick="removeOption(this)">Remove</button>
+                </li>
+            </ul>
+
+            <!-- Hidden input field to hold the serialized JSON data of options -->
+            <input type="hidden" id="optionsData" name="optionsData" />
+
+            <button type="button" class="btn btn-primary" onclick="addNewOption()">Add Option</button>
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+
+        <script>
+            function addNewOption() {
+                var optionsList = document.getElementById("optionsList");
+
+                var li = document.createElement("li");
+                li.className = "option-item";
+                li.style.display = "flex";
+
+                // Create radio button for the option
+                var radioInput = document.createElement("input");
+                radioInput.type = "radio";
+                radioInput.name = "incorrect";
+                radioInput.className = "form-check-input";
+                radioInput.required = true;
+
+                // Create text input for the option text
+                var textInput = document.createElement("input");
+                textInput.type = "text";
+                textInput.name = "optext";
+                textInput.className = "form-control";
+                textInput.required = true;
+
+                // Create remove button for the option
+                var removeButton = document.createElement("button");
+                removeButton.type = "button";
+                removeButton.className = "btn btn-danger";
+                removeButton.textContent = "Remove";
+                removeButton.onclick = function () {
+                    optionsList.removeChild(li);
+                };
+
+                // Append elements to the list item
+                li.appendChild(radioInput);
+                li.appendChild(textInput);
+                li.appendChild(removeButton);
+
+                // Append list item to the options list
+                optionsList.appendChild(li);
+            }
+
+     
+            function collectOptions() {
+                var optionsList = document.getElementById("optionsList");
+                var optionsInputs = optionsList.getElementsByClassName("option-item");
+                var optionsData = [];
+
+                for (var i = 0; i < optionsInputs.length; i++) {
+                    var optionItem = optionsInputs[i];
+                    var optionText = optionItem.querySelector("input[name='optext']").value;
+                    var isCorrect = optionItem.querySelector("input[name='incorrect']").checked;
+
+                    // Create an option object and add it to the optionsData array
+                    var option = {
+                        OptionText: optionText,
+                        IsCorrect: isCorrect
+                    };
+
+                    optionsData.push(option);
+                }
+
+                // Set the optionsData value to the hidden input field so it can be sent with the form
+                document.getElementById("optionsData").value = JSON.stringify(optionsData);
+            }
+
+            document.querySelector("form").addEventListener("submit", collectOptions);
+        </script>
+        <style>
+            /* Add some spacing between the list items */
+            .option-item {
+                margin-bottom: 10px;
+            }
+        </style>
+    </div>
+}

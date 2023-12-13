@@ -1,0 +1,480 @@
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\PRN231_Project_EnglishTest.csproj.AssemblyReference.cache
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\PRN231_Project_EnglishTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\PRN231_Project_EnglishTest.AssemblyInfoInputs.cache
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\PRN231_Project_EnglishTest.AssemblyInfo.cs
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\PRN231_Project_EnglishTest.csproj.CoreCompileInputs.cache
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\PRN231_Project_EnglishTest.MvcApplicationPartsAssemblyInfo.cache
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\appsettings.Development.json
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\appsettings.json
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\PRN231_Project_EnglishTest.exe
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\PRN231_Project_EnglishTest.deps.json
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\PRN231_Project_EnglishTest.runtimeconfig.json
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\PRN231_Project_EnglishTest.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\PRN231_Project_EnglishTest.pdb
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Azure.Core.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Azure.Identity.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Humanizer.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.AspNetCore.OData.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.OData.Core.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.OData.Edm.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.OData.ModelBuilder.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Spatial.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\System.CodeDom.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\System.Memory.Data.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\System.Text.Json.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\PRN231_Project_EnglishTest.MvcApplicationPartsAssemblyInfo.cs
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\staticwebassets\msbuild.PRN231_Project_EnglishTest.Microsoft.AspNetCore.StaticWebAssets.props
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\staticwebassets\msbuild.build.PRN231_Project_EnglishTest.props
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PRN231_Project_EnglishTest.props
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PRN231_Project_EnglishTest.props
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\staticwebassets.pack.json
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\staticwebassets.build.json
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\staticwebassets.development.json
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\scopedcss\bundle\PRN231_Project_EnglishTest.styles.css
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\PRN231_Project_EnglishTest.csproj.CopyComplete
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\PRN231_Project_EnglishTest.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\refint\PRN231_Project_EnglishTest.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\PRN231_Project_EnglishTest.pdb
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\PRN231_Project_EnglishTest.genruntimeconfig.cache
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\ref\PRN231_Project_EnglishTest.dll
+D:\project prn231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\appsettings.json
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\PRN231_Project_EnglishTest.exe
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\PRN231_Project_EnglishTest.deps.json
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\PRN231_Project_EnglishTest.runtimeconfig.json
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\PRN231_Project_EnglishTest.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\PRN231_Project_EnglishTest.pdb
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.AspNetCore.OData.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.OData.Core.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.OData.Edm.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.OData.ModelBuilder.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Spatial.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\PRN231_Project_EnglishTest.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\PRN231_Project_EnglishTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\PRN231_Project_EnglishTest.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\PRN231_Project_EnglishTest.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\PRN231_Project_EnglishTest.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\PRN231_Project_EnglishTest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\PRN231_Project_EnglishTest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\scopedcss\bundle\PRN231_Project_EnglishTest.styles.css
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\PRN231_Project_EnglishTest.csproj.CopyComplete
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\PRN231_Project_EnglishTest.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\refint\PRN231_Project_EnglishTest.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\PRN231_Project_EnglishTest.pdb
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\PRN231_Project_EnglishTest.genruntimeconfig.cache
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\ref\PRN231_Project_EnglishTest.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\appsettings.json
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\PRN231_Project_EnglishTest.exe
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\PRN231_Project_EnglishTest.deps.json
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\PRN231_Project_EnglishTest.runtimeconfig.json
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\PRN231_Project_EnglishTest.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\PRN231_Project_EnglishTest.pdb
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.AspNetCore.OData.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.OData.Core.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.OData.Edm.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.OData.ModelBuilder.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Spatial.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\PRN231_Project_EnglishTest.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\PRN231_Project_EnglishTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\PRN231_Project_EnglishTest.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\PRN231_Project_EnglishTest.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\PRN231_Project_EnglishTest.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\PRN231_Project_EnglishTest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\PRN231_Project_EnglishTest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\scopedcss\bundle\PRN231_Project_EnglishTest.styles.css
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\PRN231_Project_EnglishTest.csproj.CopyComplete
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\PRN231_Project_EnglishTest.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\refint\PRN231_Project_EnglishTest.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\PRN231_Project_EnglishTest.pdb
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\PRN231_Project_EnglishTest.genruntimeconfig.cache
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\ref\PRN231_Project_EnglishTest.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\appsettings.json
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\PRN231_Project_EnglishTest.exe
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\PRN231_Project_EnglishTest.deps.json
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\PRN231_Project_EnglishTest.runtimeconfig.json
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\PRN231_Project_EnglishTest.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\PRN231_Project_EnglishTest.pdb
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Humanizer.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.AspNetCore.OData.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.OData.Core.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.OData.Edm.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.OData.ModelBuilder.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Spatial.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\PRN231_Project_EnglishTest.csproj.AssemblyReference.cache
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\PRN231_Project_EnglishTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\PRN231_Project_EnglishTest.AssemblyInfoInputs.cache
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\PRN231_Project_EnglishTest.AssemblyInfo.cs
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\PRN231_Project_EnglishTest.csproj.CoreCompileInputs.cache
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\PRN231_Project_EnglishTest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\PRN231_Project_EnglishTest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\staticwebassets\msbuild.PRN231_Project_EnglishTest.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\staticwebassets\msbuild.build.PRN231_Project_EnglishTest.props
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PRN231_Project_EnglishTest.props
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PRN231_Project_EnglishTest.props
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\scopedcss\bundle\PRN231_Project_EnglishTest.styles.css
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\PRN231_Project_EnglishTest.csproj.CopyComplete
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\PRN231_Project_EnglishTest.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\refint\PRN231_Project_EnglishTest.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\PRN231_Project_EnglishTest.pdb
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\PRN231_Project_EnglishTest.genruntimeconfig.cache
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\ref\PRN231_Project_EnglishTest.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\appsettings.json
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\PRN231_Project_EnglishTest.exe
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\PRN231_Project_EnglishTest.deps.json
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\PRN231_Project_EnglishTest.runtimeconfig.json
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\PRN231_Project_EnglishTest.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\PRN231_Project_EnglishTest.pdb
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.AspNetCore.OData.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.OData.Core.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.OData.Edm.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.OData.ModelBuilder.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Spatial.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\PRN231_Project_EnglishTest.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\PRN231_Project_EnglishTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\PRN231_Project_EnglishTest.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\PRN231_Project_EnglishTest.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\PRN231_Project_EnglishTest.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\PRN231_Project_EnglishTest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\PRN231_Project_EnglishTest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\scopedcss\bundle\PRN231_Project_EnglishTest.styles.css
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\PRN231_Project_EnglishTest.csproj.CopyComplete
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\PRN231_Project_EnglishTest.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\refint\PRN231_Project_EnglishTest.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\PRN231_Project_EnglishTest.pdb
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\PRN231_Project_EnglishTest.genruntimeconfig.cache
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\PRN231_Project_EnglishTest\PRN231_Project_EnglishTest\obj\Debug\net6.0\ref\PRN231_Project_EnglishTest.dll

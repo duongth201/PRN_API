@@ -1,0 +1,52 @@
+﻿@using PRN231_Project_EnglishTest_Client.DTO.ReviewPage
+@addTagHelper *,Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    Layout = "/Pages/Shared/_Layout.cshtml";
+
+    List<ReviewPageDto> data = ViewBag.Detail;
+}
+
+@section content{
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+    <div class="container mt-5">
+        <div class="questions">
+            @for (int i = 0; i < data.Count; i++)
+            {
+                var question = data[i];
+                <div class="question">
+                    <h5>Question @(i + 1): @question.question.QuestionText</h5>
+                    @if (question.question.Options.Where(x => x.IsCorrect == true).Count() == 1)
+                    {
+                        @foreach (var option in question.question.Options)
+                        {
+                            <div class="form-check">
+                                <input disabled @(question.selectedOption.Contains(option.OptionId) ? "checked" : string.Empty) class="form-check-input" type="radio" name="@question.question.QuestionId" id="@option.OptionId" value="@option.OptionId">
+                                <label>@option.OptionText</label>
+                            </div>
+
+                        }
+                        <div style="background-color : #eab676; padding : 5px">Correct answer: @question.question.Options.FirstOrDefault(x => x.IsCorrect == true).OptionText </div>
+                    }
+                    else
+                    {
+                        @foreach (var option in question.question.Options)
+                        {
+                            <div class="form-check">
+                                <input disabled @(question.selectedOption.Contains(option.OptionId) ? "checked" : string.Empty) class="form-check-input" type="checkbox" name="@question.question.QuestionId" id="@option.OptionId" value="@option.OptionId">
+                                <label>@option.OptionText</label>
+                            </div>
+                        }
+
+                        @foreach (var option in question.question.Options.Where(x => x.IsCorrect == true))
+                        {
+                            <div style="background-color : #eab676; padding : 5px">Correct answer: @option.OptionText </div>
+                        }
+                    }
+
+                </div>
+                <br />
+            }
+        </div>
+        <a asp-controller="Home" asp-action="Index" class="btn btn-primary mt-3" id="submit-button">Back to Home</a>
+    </div>
+}

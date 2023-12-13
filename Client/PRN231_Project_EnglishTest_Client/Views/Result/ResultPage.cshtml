@@ -1,0 +1,36 @@
+﻿@using PRN231_Project_EnglishTest_Client.Models
+@addTagHelper *,Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    Layout = "/Pages/Shared/_Layout.cshtml";
+    Result res = ViewBag.Result;
+}
+
+@section content{
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+    <div class="container mt-4">
+        <h2>Exam Result</h2>
+        <table class="table">
+            <tbody>
+                <tr>
+                    <th scope="row">Score:</th>
+                    <td>@res.Score</td>
+                </tr>
+                <tr>
+                    <th scope="row">StartAt:</th>
+                    <td>@res.StartAt</td>
+                </tr>
+                <tr>
+                    <th scope="row">SubmittedAt:</th>
+                    <td>@res.SubmittedAt</td>
+                </tr>
+                <tr>
+                    <th scope="row">Review:</th>
+                    <td>
+                        <!-- Thêm nút Review và đặt ID cho nút để thực hiện hành động từ JavaScript -->
+                        <a asp-action="Index" asp-controller="ResultDetail" asp-route-resultid="@res.ResultId" asp-route-userid="@res.UserId" id="btnReview" class="btn btn-primary">Review</a>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+}

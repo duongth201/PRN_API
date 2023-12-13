@@ -1,0 +1,48 @@
+﻿@addTagHelper *,Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    Layout = "/Pages/Shared/_Layout.cshtml";
+    string chartdata = ViewBag.ChartData;
+}
+
+@section content{
+    <div>
+        <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+        <h1>Exam's History Chart</h1>
+        <div style="width: 80%; margin: auto;">
+            <canvas id="myChart"></canvas>
+        </div>
+        <script>
+            // Dữ liệu mẫu, bạn cần thay thế bằng dữ liệu thật từ máy chủ của bạn
+            const data = {
+                labels: ['0','1', '2', '3', '4', '5', '6', '7', '8', '9', '10'],
+                datasets: [{
+                    label: 'number of student',
+                    backgroundColor: 'rgba(54, 162, 235, 0.2)',
+                    borderColor: 'rgba(54, 162, 235, 1)',
+                    borderWidth: 1,
+                    data: @chartdata, // Thay thế mảng này bằng dữ liệu thật từ máy chủ của bạn
+                }]
+            };
+
+            const config = {
+                type: 'bar',
+                data: data,
+                options: {
+                    scales: {
+                        y: {
+                            beginAtZero: true,
+                            ticks: {
+                                stepSize: 1, // Chỉ hiển thị số nguyên trên trục y
+                            }
+                        }
+                    }
+                }
+            };
+
+            var myChart = new Chart(
+                document.getElementById('myChart'),
+                config
+            );
+        </script>
+       </div>
+}

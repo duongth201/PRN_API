@@ -1,0 +1,41 @@
+﻿@using PRN231_Project_EnglishTest_Client.DTO.ResultHistory
+@addTagHelper *,Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    Layout = "/Pages/Shared/_Layout.cshtml";
+
+    List<ResultHistory> data = ViewBag.ResultHistory;
+}
+
+@section content {
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+    <h1>Result History</h1>
+    <div class="container mt-4">
+        <table class="table table-striped table-bordered">
+            <thead class="thead-dark">
+                <tr>
+                    <th>No</th>
+                    <th>Test Name</th>
+                    <th>Score</th>
+                    <th>Start At</th>
+                    <th>Submit At</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in data)
+                {
+                    <tr>
+                        <td>@item.No</td>
+                        <td>@item.TestName</td>
+                        <td>@item.Score</td>
+                        <td>@item.StartAt</td>
+                        <td>@item.SubmitAt</td>
+                        <td>
+                            <a asp-action="Index" asp-controller="ResultDetail" asp-route-resultid="@item.ResultId" asp-route-userid="@item.Userid" class="btn btn-primary mt-3">View Detail</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+}

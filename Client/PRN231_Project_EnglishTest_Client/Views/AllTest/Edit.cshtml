@@ -1,0 +1,32 @@
+﻿@using PRN231_Project_EnglishTest_Client.Models
+@addTagHelper *,Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    Layout = "/Pages/Shared/_Layout.cshtml";
+
+    Test data = ViewBag.GetTestById;
+    int EditId = ViewBag.EditId;
+}
+@section content {
+    <div class="card-body">
+        <form method="post" asp-action="PutEdit" asp-controller="AllTest">
+            <input type="text" class="form-control" id="exam-id-input" style="display: none;">
+            <div class="mb-3">
+                <label for="exampleInputEmail1" class="form-label">Id @EditId</label>
+                <input type="number" class="form-control" name="id" value="@EditId" readonly>
+            </div>
+            <div class="mb-3">
+                <label for="exampleInputEmail1" class="form-label">Text Name</label>
+                <input type="text" class="form-control" name="textname" id="textname">
+            </div>
+            <div class="mb-3">
+                <label for="disabledSelect" class="form-label">Text Decription</label>
+                <input type="text" class="form-control" name="textdecription" id="textdecription">
+            </div>
+            <div class="mb-3">
+                <label for="disabledSelect" class="form-label">Duration</label>
+                <input type="number" class="form-control" name="duration" id="duration">
+            </div>
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+    </div>
+}

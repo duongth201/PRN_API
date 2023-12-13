@@ -1,0 +1,167 @@
+﻿@using PRN231_Project_EnglishTest_Client.Models
+@using PRN231_Project_EnglishTest_Client.Dto.DoExam
+@addTagHelper *,Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    Layout = "/Pages/Shared/_Layout.cshtml";
+
+    DoExamDto data = ViewBag.Questions;
+    Result res = ViewBag.Result;
+}
+
+@section content {
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+    <div class="justify-content-center">
+        <div class="text-center">
+            <h1>@data.TestName</h1>
+            <h2 id="timer"></h2>
+        </div>
+    </div>
+    <div class="container mt-5">
+        <div class="questions">
+            @for (int i = 0; i < data.questions.Count; i++)
+            {
+                var question = data.questions[i];
+                <div class="question">
+                    <h5>Question @(i + 1): @question.QuestionText</h5>
+                    @if(question.Options.Where(x => x.IsCorrect == true).Count() == 1)
+                    {
+                        @foreach (var option in question.Options)
+                        {
+                            <div class="form-check">
+                                <input class="form-check-input" type="radio" name="@question.QuestionId" id="@option.OptionId" value="@option.OptionId">
+                                <label class="form-check-label" for="@option.OptionId">@option.OptionText</label>
+                            </div>
+                        }
+                    }
+                    else
+                    {
+                        @foreach (var option in question.Options)
+                        {
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" name="checkbox" id="@option.OptionId" value="@option.OptionId">
+                                <label class="form-check-label" for="@option.OptionId">@option.OptionText</label>
+                            </div>
+                        }
+                    }
+                </div>
+                <br />
+            }
+        </div>
+        <button onclick="submit()" class="btn btn-primary mt-3" id="submit-button">Submit</button>
+    </div>
+
+    <script>
+        $(function(){
+            $(window).on('beforeunload', function(){
+                return '';
+            })
+        })
+
+        var testid = (new URL(document.location)).searchParams.get("testid");
+        var time = false;
+        // submit
+        function submit() {
+            var selectedOptions = []; // List to store selected optionIds
+
+            // Loop through each question and get the selected optionId
+            $(".questions .question").each(function () {
+                var selectedOptionId = $(this).find("input[type='radio']:checked").val();
+                if (selectedOptionId) {
+                    selectedOptions.push(parseInt(selectedOptionId)); // Parse the value to an integer and add it to the list
+                }
+            });
+
+
+            var checkboxes = document.getElementsByName('checkbox');
+            for (var i = 0; i < checkboxes.length; i++) {
+                if (checkboxes[i].checked) {
+                    selectedOptions.push(parseInt(checkboxes[i].value));
+                }
+            }
+
+            var userid = parseInt(@Context.Session.GetString("Userid"));
+            var requestData = {
+                resultid: @res.ResultId,
+                testid: testid,
+                userid: userid,
+                selectedOptions: selectedOptions,
+            };
+
+            console.log(requestData)
+            if (!time) {
+                var a = confirm("Do you want to submit?");
+                if (a) {
+                    // Send the selectedOptions list to the server using AJAX
+                    $.ajax({
+                        url: "http://localhost:5166/api/ResultDetail/Submit",
+                        type: "post",
+                        contentType: "application/json",
+                        data: JSON.stringify(requestData),
+                        success: function (result, status, xhr) {
+                            window.location.href = "/Result/ResultPage?resultid=" + @res.ResultId;
+                            alert('Submit Success');
+                        },
+                        error: function (result, status, xhr) {
+                            alert('Submit Failed');
+                        }
+                    });
+                }
+            }
+            else {
+                // Send the selectedOptions list to the server using AJAX
+                $.ajax({
+                    url: "http://localhost:5166/api/ResultDetail/Submit",
+                    type: "post",
+                    contentType: "application/json",
+                    data: JSON.stringify(requestData),
+                    success: function (result, status, xhr) {
+                        window.location.href = "/Result/ResultPage?resultid=" + @res.ResultId;
+                        alert('Submit Success');
+                    },
+                    error: function (result, status, xhr) {
+                        alert('Submit Failed');
+                    }
+                });
+            }
+
+        }
+
+        // timer
+        function formatTime(seconds) {
+            const mins = String(Math.floor(seconds / 60)).padStart(2, '0');
+            const secs = String(seconds % 60).padStart(2, '0');
+            return `${mins}:${secs}`;
+        }
+
+        // Function to format the time in MM:SS format
+
+
+        // Function to start the countdown timer
+        function startCountdown(seconds) {
+            let timeLeft = seconds;
+
+            function updateTimer() {
+                timeLeft -= 1; // Decrement by 1 second
+                if (timeLeft <= 0) {
+                    clearInterval(interval);
+                    document.getElementById('timer').innerText = "00:00";
+                    // Your code to handle when the countdown finishes
+                    alert("Time's over!");
+                    time = true;
+                    submit();
+                } else {
+                    document.getElementById('timer').innerText = formatTime(timeLeft);
+                }
+            }
+
+            // Update the timer every 1 second (1000 milliseconds)
+            const interval = setInterval(updateTimer, 1000);
+        }
+
+        // Start the countdown with 60 minutes (3600 seconds)
+        const countdownTimeInMinutes = @data.Durantion
+                const countdownTimeInSeconds = countdownTimeInMinutes * 60;
+        document.getElementById('timer').innerText = formatTime(countdownTimeInSeconds);
+        startCountdown(countdownTimeInSeconds);
+    </script>
+}

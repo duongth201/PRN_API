@@ -1,0 +1,109 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PRN231_Project_EnglishTest_Client
+build_property.RootNamespace = PRN231_Project_EnglishTest_Client
+build_property.ProjectDir = E:\.FPT\.Semester8 Su23\PRN231\Project_PRN231_Test\Client\PRN231_Project_EnglishTest_Client\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\.FPT\.Semester8 Su23\PRN231\Project_PRN231_Test\Client\PRN231_Project_EnglishTest_Client
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/.FPT/.Semester8 Su23/PRN231/Project_PRN231_Test/Client/PRN231_Project_EnglishTest_Client/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/.FPT/.Semester8 Su23/PRN231/Project_PRN231_Test/Client/PRN231_Project_EnglishTest_Client/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/.FPT/.Semester8 Su23/PRN231/Project_PRN231_Test/Client/PRN231_Project_EnglishTest_Client/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/.FPT/.Semester8 Su23/PRN231/Project_PRN231_Test/Client/PRN231_Project_EnglishTest_Client/Views/AllTest/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxsVGVzdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/.FPT/.Semester8 Su23/PRN231/Project_PRN231_Test/Client/PRN231_Project_EnglishTest_Client/Views/AllTest/CreateQues.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxsVGVzdFxDcmVhdGVRdWVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/.FPT/.Semester8 Su23/PRN231/Project_PRN231_Test/Client/PRN231_Project_EnglishTest_Client/Views/AllTest/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxsVGVzdFxEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/.FPT/.Semester8 Su23/PRN231/Project_PRN231_Test/Client/PRN231_Project_EnglishTest_Client/Views/AllTest/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxsVGVzdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/.FPT/.Semester8 Su23/PRN231/Project_PRN231_Test/Client/PRN231_Project_EnglishTest_Client/Views/AllTest/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxsVGVzdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/.FPT/.Semester8 Su23/PRN231/Project_PRN231_Test/Client/PRN231_Project_EnglishTest_Client/Views/AllTest/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxsVGVzdFxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/.FPT/.Semester8 Su23/PRN231/Project_PRN231_Test/Client/PRN231_Project_EnglishTest_Client/Views/Chart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/.FPT/.Semester8 Su23/PRN231/Project_PRN231_Test/Client/PRN231_Project_EnglishTest_Client/Views/HistoryAdmin/AdminHis.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGlzdG9yeUFkbWluXEFkbWluSGlzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/.FPT/.Semester8 Su23/PRN231/Project_PRN231_Test/Client/PRN231_Project_EnglishTest_Client/Views/HistoryAdmin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGlzdG9yeUFkbWluXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/.FPT/.Semester8 Su23/PRN231/Project_PRN231_Test/Client/PRN231_Project_EnglishTest_Client/Views/Home/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/.FPT/.Semester8 Su23/PRN231/Project_PRN231_Test/Client/PRN231_Project_EnglishTest_Client/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/.FPT/.Semester8 Su23/PRN231/Project_PRN231_Test/Client/PRN231_Project_EnglishTest_Client/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/.FPT/.Semester8 Su23/PRN231/Project_PRN231_Test/Client/PRN231_Project_EnglishTest_Client/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/.FPT/.Semester8 Su23/PRN231/Project_PRN231_Test/Client/PRN231_Project_EnglishTest_Client/Views/Question/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVlc3Rpb25cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/.FPT/.Semester8 Su23/PRN231/Project_PRN231_Test/Client/PRN231_Project_EnglishTest_Client/Views/ResultDetail/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdWx0RGV0YWlsXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/.FPT/.Semester8 Su23/PRN231/Project_PRN231_Test/Client/PRN231_Project_EnglishTest_Client/Views/ResultHistory/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdWx0SGlzdG9yeVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/.FPT/.Semester8 Su23/PRN231/Project_PRN231_Test/Client/PRN231_Project_EnglishTest_Client/Views/Result/ResultPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdWx0XFJlc3VsdFBhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/.FPT/.Semester8 Su23/PRN231/Project_PRN231_Test/Client/PRN231_Project_EnglishTest_Client/Views/SignUp/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2lnblVwXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/.FPT/.Semester8 Su23/PRN231/Project_PRN231_Test/Client/PRN231_Project_EnglishTest_Client/Views/Test/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/.FPT/.Semester8 Su23/PRN231/Project_PRN231_Test/Client/PRN231_Project_EnglishTest_Client/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-tz51rdt61o

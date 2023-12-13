@@ -1,0 +1,150 @@
+D:\project prn231\PRN231_Project_EnglishTest_Client\PRN231_Project_EnglishTest_Client\bin\Debug\net6.0\appsettings.Development.json
+D:\project prn231\PRN231_Project_EnglishTest_Client\PRN231_Project_EnglishTest_Client\bin\Debug\net6.0\appsettings.json
+D:\project prn231\PRN231_Project_EnglishTest_Client\PRN231_Project_EnglishTest_Client\bin\Debug\net6.0\PRN231_Project_EnglishTest_Client.staticwebassets.runtime.json
+D:\project prn231\PRN231_Project_EnglishTest_Client\PRN231_Project_EnglishTest_Client\bin\Debug\net6.0\PRN231_Project_EnglishTest_Client.exe
+D:\project prn231\PRN231_Project_EnglishTest_Client\PRN231_Project_EnglishTest_Client\bin\Debug\net6.0\PRN231_Project_EnglishTest_Client.deps.json
+D:\project prn231\PRN231_Project_EnglishTest_Client\PRN231_Project_EnglishTest_Client\bin\Debug\net6.0\PRN231_Project_EnglishTest_Client.runtimeconfig.json
+D:\project prn231\PRN231_Project_EnglishTest_Client\PRN231_Project_EnglishTest_Client\bin\Debug\net6.0\PRN231_Project_EnglishTest_Client.dll
+D:\project prn231\PRN231_Project_EnglishTest_Client\PRN231_Project_EnglishTest_Client\bin\Debug\net6.0\PRN231_Project_EnglishTest_Client.pdb
+D:\project prn231\PRN231_Project_EnglishTest_Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\PRN231_Project_EnglishTest_Client.csproj.AssemblyReference.cache
+D:\project prn231\PRN231_Project_EnglishTest_Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\PRN231_Project_EnglishTest_Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\project prn231\PRN231_Project_EnglishTest_Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\PRN231_Project_EnglishTest_Client.AssemblyInfoInputs.cache
+D:\project prn231\PRN231_Project_EnglishTest_Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\PRN231_Project_EnglishTest_Client.AssemblyInfo.cs
+D:\project prn231\PRN231_Project_EnglishTest_Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\PRN231_Project_EnglishTest_Client.csproj.CoreCompileInputs.cache
+D:\project prn231\PRN231_Project_EnglishTest_Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\PRN231_Project_EnglishTest_Client.MvcApplicationPartsAssemblyInfo.cache
+D:\project prn231\PRN231_Project_EnglishTest_Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\PRN231_Project_EnglishTest_Client.RazorAssemblyInfo.cache
+D:\project prn231\PRN231_Project_EnglishTest_Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\PRN231_Project_EnglishTest_Client.RazorAssemblyInfo.cs
+D:\project prn231\PRN231_Project_EnglishTest_Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\staticwebassets\msbuild.PRN231_Project_EnglishTest_Client.Microsoft.AspNetCore.StaticWebAssets.props
+D:\project prn231\PRN231_Project_EnglishTest_Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\staticwebassets\msbuild.build.PRN231_Project_EnglishTest_Client.props
+D:\project prn231\PRN231_Project_EnglishTest_Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PRN231_Project_EnglishTest_Client.props
+D:\project prn231\PRN231_Project_EnglishTest_Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PRN231_Project_EnglishTest_Client.props
+D:\project prn231\PRN231_Project_EnglishTest_Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\staticwebassets.pack.json
+D:\project prn231\PRN231_Project_EnglishTest_Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\staticwebassets.build.json
+D:\project prn231\PRN231_Project_EnglishTest_Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\staticwebassets.development.json
+D:\project prn231\PRN231_Project_EnglishTest_Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\scopedcss\bundle\PRN231_Project_EnglishTest_Client.styles.css
+D:\project prn231\PRN231_Project_EnglishTest_Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\scopedcss\projectbundle\PRN231_Project_EnglishTest_Client.bundle.scp.css
+D:\project prn231\PRN231_Project_EnglishTest_Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\PRN231_Project_EnglishTest_Client.dll
+D:\project prn231\PRN231_Project_EnglishTest_Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\refint\PRN231_Project_EnglishTest_Client.dll
+D:\project prn231\PRN231_Project_EnglishTest_Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\PRN231_Project_EnglishTest_Client.pdb
+D:\project prn231\PRN231_Project_EnglishTest_Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\PRN231_Project_EnglishTest_Client.genruntimeconfig.cache
+D:\project prn231\PRN231_Project_EnglishTest_Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\ref\PRN231_Project_EnglishTest_Client.dll
+D:\project prn231\PRN231_Project_EnglishTest_Client\PRN231_Project_EnglishTest_Client\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\project prn231\PRN231_Project_EnglishTest_Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\PRN231_Project_EnglishTest_Client.csproj.CopyComplete
+D:\project prn231\PRN231_Project_EnglishTest_Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest_Client\PRN231_Project_EnglishTest_Client\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest_Client\PRN231_Project_EnglishTest_Client\bin\Debug\net6.0\appsettings.json
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest_Client\PRN231_Project_EnglishTest_Client\bin\Debug\net6.0\PRN231_Project_EnglishTest_Client.staticwebassets.runtime.json
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest_Client\PRN231_Project_EnglishTest_Client\bin\Debug\net6.0\PRN231_Project_EnglishTest_Client.exe
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest_Client\PRN231_Project_EnglishTest_Client\bin\Debug\net6.0\PRN231_Project_EnglishTest_Client.deps.json
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest_Client\PRN231_Project_EnglishTest_Client\bin\Debug\net6.0\PRN231_Project_EnglishTest_Client.runtimeconfig.json
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest_Client\PRN231_Project_EnglishTest_Client\bin\Debug\net6.0\PRN231_Project_EnglishTest_Client.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest_Client\PRN231_Project_EnglishTest_Client\bin\Debug\net6.0\PRN231_Project_EnglishTest_Client.pdb
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest_Client\PRN231_Project_EnglishTest_Client\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest_Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\PRN231_Project_EnglishTest_Client.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest_Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\PRN231_Project_EnglishTest_Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest_Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\PRN231_Project_EnglishTest_Client.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest_Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\PRN231_Project_EnglishTest_Client.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest_Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\PRN231_Project_EnglishTest_Client.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest_Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\PRN231_Project_EnglishTest_Client.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest_Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\PRN231_Project_EnglishTest_Client.RazorAssemblyInfo.cache
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest_Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\PRN231_Project_EnglishTest_Client.RazorAssemblyInfo.cs
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest_Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest_Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest_Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest_Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\scopedcss\bundle\PRN231_Project_EnglishTest_Client.styles.css
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest_Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\scopedcss\projectbundle\PRN231_Project_EnglishTest_Client.bundle.scp.css
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest_Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\PRN231_Project_EnglishTest_Client.csproj.CopyComplete
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest_Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\PRN231_Project_EnglishTest_Client.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest_Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\refint\PRN231_Project_EnglishTest_Client.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest_Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\PRN231_Project_EnglishTest_Client.pdb
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest_Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\PRN231_Project_EnglishTest_Client.genruntimeconfig.cache
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Project_EnglishTest_Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\ref\PRN231_Project_EnglishTest_Client.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\Client\PRN231_Project_EnglishTest_Client\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\Client\PRN231_Project_EnglishTest_Client\bin\Debug\net6.0\appsettings.json
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\Client\PRN231_Project_EnglishTest_Client\bin\Debug\net6.0\PRN231_Project_EnglishTest_Client.staticwebassets.runtime.json
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\Client\PRN231_Project_EnglishTest_Client\bin\Debug\net6.0\PRN231_Project_EnglishTest_Client.exe
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\Client\PRN231_Project_EnglishTest_Client\bin\Debug\net6.0\PRN231_Project_EnglishTest_Client.deps.json
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\Client\PRN231_Project_EnglishTest_Client\bin\Debug\net6.0\PRN231_Project_EnglishTest_Client.runtimeconfig.json
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\Client\PRN231_Project_EnglishTest_Client\bin\Debug\net6.0\PRN231_Project_EnglishTest_Client.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\Client\PRN231_Project_EnglishTest_Client\bin\Debug\net6.0\PRN231_Project_EnglishTest_Client.pdb
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\Client\PRN231_Project_EnglishTest_Client\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\PRN231_Project_EnglishTest_Client.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\PRN231_Project_EnglishTest_Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\PRN231_Project_EnglishTest_Client.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\PRN231_Project_EnglishTest_Client.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\PRN231_Project_EnglishTest_Client.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\PRN231_Project_EnglishTest_Client.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\PRN231_Project_EnglishTest_Client.RazorAssemblyInfo.cache
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\PRN231_Project_EnglishTest_Client.RazorAssemblyInfo.cs
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\scopedcss\bundle\PRN231_Project_EnglishTest_Client.styles.css
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\scopedcss\projectbundle\PRN231_Project_EnglishTest_Client.bundle.scp.css
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\PRN231_Project_EnglishTest_Client.csproj.CopyComplete
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\PRN231_Project_EnglishTest_Client.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\refint\PRN231_Project_EnglishTest_Client.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\PRN231_Project_EnglishTest_Client.pdb
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\PRN231_Project_EnglishTest_Client.genruntimeconfig.cache
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\Project_PRN231\PRN_231\Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\ref\PRN231_Project_EnglishTest_Client.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\Client\PRN231_Project_EnglishTest_Client\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\Client\PRN231_Project_EnglishTest_Client\bin\Debug\net6.0\appsettings.json
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\Client\PRN231_Project_EnglishTest_Client\bin\Debug\net6.0\PRN231_Project_EnglishTest_Client.staticwebassets.runtime.json
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\Client\PRN231_Project_EnglishTest_Client\bin\Debug\net6.0\PRN231_Project_EnglishTest_Client.exe
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\Client\PRN231_Project_EnglishTest_Client\bin\Debug\net6.0\PRN231_Project_EnglishTest_Client.deps.json
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\Client\PRN231_Project_EnglishTest_Client\bin\Debug\net6.0\PRN231_Project_EnglishTest_Client.runtimeconfig.json
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\Client\PRN231_Project_EnglishTest_Client\bin\Debug\net6.0\PRN231_Project_EnglishTest_Client.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\Client\PRN231_Project_EnglishTest_Client\bin\Debug\net6.0\PRN231_Project_EnglishTest_Client.pdb
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\Client\PRN231_Project_EnglishTest_Client\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\PRN231_Project_EnglishTest_Client.csproj.AssemblyReference.cache
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\PRN231_Project_EnglishTest_Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\PRN231_Project_EnglishTest_Client.AssemblyInfoInputs.cache
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\PRN231_Project_EnglishTest_Client.AssemblyInfo.cs
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\PRN231_Project_EnglishTest_Client.csproj.CoreCompileInputs.cache
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\PRN231_Project_EnglishTest_Client.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\PRN231_Project_EnglishTest_Client.RazorAssemblyInfo.cache
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\PRN231_Project_EnglishTest_Client.RazorAssemblyInfo.cs
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\staticwebassets\msbuild.PRN231_Project_EnglishTest_Client.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\staticwebassets\msbuild.build.PRN231_Project_EnglishTest_Client.props
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PRN231_Project_EnglishTest_Client.props
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PRN231_Project_EnglishTest_Client.props
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\scopedcss\bundle\PRN231_Project_EnglishTest_Client.styles.css
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\scopedcss\projectbundle\PRN231_Project_EnglishTest_Client.bundle.scp.css
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\PRN231_Project_EnglishTest_Client.csproj.CopyComplete
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\PRN231_Project_EnglishTest_Client.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\refint\PRN231_Project_EnglishTest_Client.dll
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\PRN231_Project_EnglishTest_Client.pdb
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\PRN231_Project_EnglishTest_Client.genruntimeconfig.cache
+C:\Users\hellb\OneDrive\Documents\GitHub\PRN231_Test\Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\ref\PRN231_Project_EnglishTest_Client.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\Client\PRN231_Project_EnglishTest_Client\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\Client\PRN231_Project_EnglishTest_Client\bin\Debug\net6.0\appsettings.json
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\Client\PRN231_Project_EnglishTest_Client\bin\Debug\net6.0\PRN231_Project_EnglishTest_Client.staticwebassets.runtime.json
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\Client\PRN231_Project_EnglishTest_Client\bin\Debug\net6.0\PRN231_Project_EnglishTest_Client.exe
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\Client\PRN231_Project_EnglishTest_Client\bin\Debug\net6.0\PRN231_Project_EnglishTest_Client.deps.json
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\Client\PRN231_Project_EnglishTest_Client\bin\Debug\net6.0\PRN231_Project_EnglishTest_Client.runtimeconfig.json
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\Client\PRN231_Project_EnglishTest_Client\bin\Debug\net6.0\PRN231_Project_EnglishTest_Client.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\Client\PRN231_Project_EnglishTest_Client\bin\Debug\net6.0\PRN231_Project_EnglishTest_Client.pdb
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\Client\PRN231_Project_EnglishTest_Client\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\PRN231_Project_EnglishTest_Client.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\PRN231_Project_EnglishTest_Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\PRN231_Project_EnglishTest_Client.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\PRN231_Project_EnglishTest_Client.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\PRN231_Project_EnglishTest_Client.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\PRN231_Project_EnglishTest_Client.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\PRN231_Project_EnglishTest_Client.RazorAssemblyInfo.cache
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\PRN231_Project_EnglishTest_Client.RazorAssemblyInfo.cs
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\scopedcss\bundle\PRN231_Project_EnglishTest_Client.styles.css
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\scopedcss\projectbundle\PRN231_Project_EnglishTest_Client.bundle.scp.css
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\PRN231_Project_EnglishTest_Client.csproj.CopyComplete
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\PRN231_Project_EnglishTest_Client.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\refint\PRN231_Project_EnglishTest_Client.dll
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\PRN231_Project_EnglishTest_Client.pdb
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\PRN231_Project_EnglishTest_Client.genruntimeconfig.cache
+C:\Users\ADMIN\Documents\Kì 8 Summer 2023\PRN231\Project\PRN231_Test\Client\PRN231_Project_EnglishTest_Client\obj\Debug\net6.0\ref\PRN231_Project_EnglishTest_Client.dll

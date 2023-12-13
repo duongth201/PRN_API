@@ -1,0 +1,44 @@
+﻿@using PRN231_Project_EnglishTest_Client.Models
+@addTagHelper *,Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    Layout = "/Pages/Shared/_Layout.cshtml";
+
+    List<Test> data = ViewBag.AllTest;
+}
+
+@section content {
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+    <h1>All Test</h1>
+    <a class="text-primary fw-bold ms-2" asp-controller="AllTest" asp-action="Create">Create a test</a>
+    <div class="container mt-4">
+        <table class="table table-striped table-bordered">
+            <thead class="thead-dark">
+                <tr>
+                    <th>Test Id</th>
+                    <th>Test Name</th>
+                    <th>Test Description</th>
+                    <th>Duration</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in data)
+                {
+                    <tr>
+                        <td>@item.TestId</td>
+                        <td>@item.TestName</td>
+                        <td>@item.TestDescription</td>
+                        <td>@item.Duration</td>
+                        <td class="button-container">
+                            <a asp-action="Detail" asp-controller="AllTest" asp-route-id="@item.TestId"  class="btn btn-primary mt-3">View Detail</a>
+                            <a asp-action="Edit" asp-controller="AllTest" asp-route-id="@item.TestId"  class="btn btn-primary mt-3">Edit</a>
+                            <a asp-action="Delete" asp-controller="AllTest" asp-route-id="@item.TestId" class="btn btn-danger mt-3"
+                       onclick="return confirm('Are you sure you want to delete this test?')">Delete</a>
+
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+}

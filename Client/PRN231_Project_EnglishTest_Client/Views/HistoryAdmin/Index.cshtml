@@ -1,0 +1,33 @@
+﻿@using PRN231_Project_EnglishTest_Client.Models;
+@addTagHelper *,Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    Layout = "/Pages/Shared/_Layout.cshtml";
+    List<Test> tests = ViewBag.Tests;
+}
+
+@section content{
+    <div class="container mt-4">
+        <h1>Exam's History</h1>
+        <table class="table table-striped table-bordered">
+            <thead class="thead-dark">
+                <tr>
+                    <th>TestId</th>
+                    <th>TestName</th>
+                    <th>Duration</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach(var item in tests)
+                {
+                    <tr>
+                        <td>@item.TestId</td>
+                        <td>@item.TestName</td>
+                        <td>@item.Duration</td>
+                        <td><a asp-action="AdminHis" asp-controller="HistoryAdmin" asp-route-testid="@item.TestId" class="btn btn-primary">View All</a></td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+}

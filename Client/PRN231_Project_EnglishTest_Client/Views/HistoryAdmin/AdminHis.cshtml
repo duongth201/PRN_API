@@ -1,0 +1,38 @@
+﻿@using PRN231_Project_EnglishTest_Client.DTO.AdminHis;
+@using PRN231_Project_EnglishTest_Client.Models;
+@addTagHelper *,Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    Layout = "/Pages/Shared/_Layout.cshtml";
+    List<AdminHisDto> data = ViewBag.His;
+    int? testid = int.Parse(Context.Session.GetString("testidchart") == null ? "0" : Context.Session.GetString("testidchart"));
+}
+
+@section content{
+    <div class="container mt-4">
+        <h1>Exam's History</h1>
+        <a asp-action="Index" asp-controller="Chart" asp-route-testid="@testid" class="btn btn-primary">Chart</a>
+        <table class="table table-striped table-bordered">
+            <thead class="thead-dark">
+                <tr>
+                    <th>Userid</th>
+                    <th>Username</th>
+                    <th>MaxScore</th>
+                    <th>Do Number</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in data)
+                {
+                    <tr>
+                        <td>@item.Userid</td>
+                        <td>@item.Username</td>
+                        <td>@item.MaxScore</td>
+                        <td>@item.DoNumber</td>
+                        <td><a asp-action="Index" asp-controller="ResultHistory" asp-route-testid="@item.Testid" asp-route-userid="@item.Userid" class="btn btn-primary">View All</a></td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+}
